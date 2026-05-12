@@ -186,9 +186,14 @@ The Vahadane method is implemented using `sklearn.decomposition.DictionaryLearni
 If you use Chameleon WSI in your research, please cite:
 
 ```
-Turner, N.J. (2025). Chameleon WSI: A Cross-Platform Stain Normalization Platform
-for Whole Slide Histopathology Images. University of Pittsburgh, Department of Surgery.
-https://github.com/neill-turner/chameleon-wsi
+@software{turner2026chameleon},
+  author  = {Turner, Neill},
+  title   = {ChameleonWSI: A Cross-Platform Stain Normalization Platform
+for Whole Slide Histopathology Images.},
+  year    = {2026},
+  url     = {https://github.com/chameleon-histo/ChameleonWSI},
+  version = {1.0}
+
 ```
 
 ---
@@ -199,10 +204,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## Contact
-
-**Neill Turner, PhD**  
-Research Assistant Professor, Department of Surgery  
-University of Pittsburgh  
-neill.turner.phd@gmail.com  
-[linkedin.com/in/neill-turner-b5908a65](https://linkedin.com/in/neill-turner-b5908a65)
+*Created by* [*Neill Turner, PhD*](https://linkedin.com/in/neill-turner-b5908a65) *— open-source tool for the digital pathology and computational biology community.*
