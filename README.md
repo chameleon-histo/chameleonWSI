@@ -9,13 +9,13 @@ Chameleon WSI is a standalone desktop application for batch stain normalization 
 ## Screenshots
 
 ### Main Window
-docs/chameleon_wsi_main.png
+![Chameleon WSI Main Window](docs/chameleon_wsi_main.png)
 
 ### Slide Selected — Pre-Normalization
-docs/chameleon_wsi_preview.png)
+![Slide selected with original thumbnail displayed](docs/chameleon_wsi_preview.png)
 
 ### Normalization Preview
-docs/chameleon_wsi_normalization.png)
+![Before and after thumbnails following normalization](docs/chameleon_wsi_normalization.png)
 
 ---
 
