@@ -9,7 +9,7 @@ Biomedical scientist and computational pathology researcher with 20+ years of ex
 - LinkedIn: [linkedin.com/in/neill-turner-b5908a65](https://linkedin.com/in/neill-turner-b5908a65)
 - Email: neill.turner.phd@gmail.com
 
-Chameleon was conceived, designed, and developed by Neill Turner as an open-source tool for the digital pathology and computational biology community.
+Chameleon-WSI was conceived, designed, and developed by Neill Turner as an open-source tool for the digital pathology and computational biology community.
 
 ---
 
